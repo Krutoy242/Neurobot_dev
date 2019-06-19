@@ -1,0 +1,1 @@
+return {filename="options.lua",compute_speed=0.62103505843071782,updateNN=true,hidden1=2,exploreImportance=0.79000000000000004,learning_rate=0.78726708074534146,drawUI=true,drawMC=false,df=0.70999999999999996,debugLevel=3,hidden2=3}
