@@ -1,3 +1,3 @@
 # Neurobot_dev
 
-![](https://imgur.com/WrhV2WS.gif)
+![](https://i.imgur.com/WrhV2WS.gif)
